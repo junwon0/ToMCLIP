@@ -29,7 +29,6 @@ sh test.sh
 ```
 
 ## Visualization of Shared Embedding Space
-We provide a visu
 We provide a visualization of the shared embedding space for English and Korean CIFAR-100 class label embeddings. 
 Each point represents the embedding of a prompted class label, and distances between points reflect semantic relationships in the embedding space.
 For each model (i.e., CLIP, MCLIP, and ToMCLIP), we project the embeddings in two dimensions using t-SNE and highlight the class-level clusters. 
