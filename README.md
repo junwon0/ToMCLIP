@@ -1,4 +1,4 @@
-# Topological Alignment of shared Vision-Language Embedding Space ([<U>AISTATS 2026</U>](https://virtual.aistats.org/virtual/2026/poster/10834))
+# Topological Alignment of shared Vision-Language Embedding Space ([<U>AISTATS 2026</U>](https://virtual.aistats.org/virtual/2026/poster/13510))
 
 ## Paper 
 [<U>Paper link</U>](https://arxiv.org/abs/2510.10889)  
